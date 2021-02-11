@@ -1,4 +1,4 @@
-# Re/Max Joop Reading List Project
+# RE/MAX Joop Reading List Project
 
 PHP version: 7.4
 Laravel version 8.12
